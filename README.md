@@ -26,6 +26,12 @@ This API is designed for use in applications that require flexible and efficient
 
 ## Usage Syntax
 
+### Instalation
+
+```
+npm i opcrud-mysql
+```
+
 ### Import Modules:
 
 ```
