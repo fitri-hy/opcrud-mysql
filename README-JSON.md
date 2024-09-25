@@ -17,7 +17,7 @@ const {
   search,
   distinct,
   dropTable 
-} = require('./opcrud-mysql/json');
+} = require('opcrud-mysql/json');
 ```
 
 ### Path Json File:
@@ -272,7 +272,7 @@ const {
   search,
   distinct,
   dropTable 
-} = require('./opcrud-mysql/json');
+} = require('opcrud-mysql/json');
 
 app.use(express.json());
 
