@@ -25,5 +25,11 @@ Before using this API, make sure you have Node.js installed and have access to t
 This API is designed for use in applications that require flexible and efficient data management. Please refer to the remaining sections of this documentation for more information on how to use each API endpoint.
 
 # Choose How to Use:
+
+### Installation:
+```
+npm i opcrud-mysql
+```
+
 - <a href="./README-MYSQL.md">OpCrud/MySQL Version</a>
 - <a href="./README-JSON.md">OpCrud/Json Version</a>
